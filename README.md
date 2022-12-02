@@ -1,4 +1,4 @@
-# HTML-Drum-Kit
+# HTML Drum Kit
 An HTML-based drum kit using the keyboard.
 
 Utilizes JavaScript for the drum sounds and functionality.
